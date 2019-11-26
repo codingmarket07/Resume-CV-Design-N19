@@ -226,7 +226,7 @@ body{
 .resume .resume_right .resume_hobby ul li{
   width: 80px;
   height: 80px;
-  border: 1px solid #0BB5F4;
+  border: 2px solid #0BB5F4;
   border-radius: 50%;
   position: relative;
   color: #0BB5F4;
@@ -240,7 +240,7 @@ body{
   content: "";
   position: absolute;
   top: 40px;
-  right: -51px;
+  right: -52px;
   width: 50px;
   height: 2px;
   background: #0BB5F4;
